@@ -76,6 +76,7 @@ if(isset($_POST['place_order'])){
     }
 }
 
+
 // Handling adding products to wishlist
 if(isset($_POST['add_to_wishlist'])){
     $id = unique_id(); // Assuming unique_id() generates a unique ID

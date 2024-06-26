@@ -143,7 +143,7 @@
                     <div class="card-des">
                         <h2>Lorem, ipsum dolor.</h2>
                         <h3>Lorem ipsum dolor sit amet consectetur.</h3>
-                        <a href="view_product.php">Shop Now</a>
+                        <a href="view_products.php">Shop Now</a>
                     </div>
                 </div>
                 <div class="card">
@@ -153,7 +153,7 @@
                     <div class="card-des">
                         <h2>Lorem, ipsum.</h2>
                         <h3>Lorem ipsum dolor sit amet consectetur.</h3>
-                        <a href="view_product.php">Shop Now</a>
+                        <a href="view_products.php">Shop Now</a>
                     </div>
                 </div>
                 <div class="card">
@@ -163,7 +163,7 @@
                     <div class="card-des">
                         <h2>Lorem, ipsum dolor.</h2>
                         <h3>Lorem ipsum dolor sit amet consectetur.</h3>
-                        <a href="view_product.php">Shop Now</a>
+                        <a href="view_products.php">Shop Now</a>
                     </div>
                 </div>
             </div>
