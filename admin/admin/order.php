@@ -14,7 +14,7 @@
         $order_id = $_POST['order_id'];
         $order_id = filter_var($order_id , FILTER_SANITIZE_STRING);
 
-        $verify_delete = $conn->prepare("SELECT * FROM orders WHERE id = ? ");
+        $verify_delete = $conn->prepare("SELECT * FROM admin_orders WHERE id = ? ");
         $verify_delete->execute([($order_id)]);
 
         if($verify_delete->rowCount() > 0){

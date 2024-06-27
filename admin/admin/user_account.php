@@ -43,7 +43,7 @@
                 <h1 class="heading">register user's</h1>
                 <div class="box-container">
                     <?php 
-                    $select_user = $conn->prepare("SELECT * FROM users ");
+                    $select_user = $conn->prepare("SELECT * FROM admin_users ");
                     $select_user->execute();
 
                     if($select_user->rowCount() > 0){

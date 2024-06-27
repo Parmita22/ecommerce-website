@@ -1,5 +1,5 @@
 <?php
-    $db_name = 'mysql:host=localhost; dbname=eco_admin';
+    $db_name = 'mysql:host=localhost; dbname=shop_db';
     $user_name = 'root';
     $user_password = '';
 

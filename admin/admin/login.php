@@ -20,7 +20,6 @@
             $fetch_admin_id = $select_admin->fetch(PDO::FETCH_ASSOC);
             $_SESSION['admin_id'] = $fetch_admin_id['id'];
             header('location:dashboard.php');
-
         }else{
             $warning_msg[] = 'incorrect username or password';
         }
