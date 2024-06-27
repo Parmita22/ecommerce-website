@@ -41,27 +41,25 @@
      <h1 class="heading">About us </h1>
   <div class="project-card-main">
     <div class="project-card-image">
-      <img src="https://i.ibb.co/vhKYByB/cardimg.jpg" alt="Project Image">
+      <img src="img/about1.png" alt="Project Image">
     </div>
     <div class="project-card-content">
-      <h3 class="project-card-title">Project Name</h3>
+      <h3 class="project-card-title">Commitment to Quality</h3>
       <p class="project-card-description">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
-        Quasi doloremque atque dicta recusandae debitis tempora.
+      we are dedicated to delivering uncompromising quality. From meticulous craftsmanship to exceptional customer service, we ensure every experience with us is reliable and satisfying.
       </p>
     </div>
   </div>
 
   <div class="project-card-main project-card-reverse">
     <div class="project-card-content">
-      <h3 class="project-card-title">Another Project</h3>
+      <h3 class="project-card-title">Innovation and Customer Focus</h3>
       <p class="project-card-description">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
-        Quasi doloremque atque dicta recusandae debitis tempora.
+      We thrive on innovation, driven by a deep understanding of our customers' needs. By integrating feedback and leveraging cutting-edge technologies, we create visionary products that exceed expectations and inspire transformation.
       </p>
     </div>
     <div class="project-card-image">
-      <img src="https://i.ibb.co/vhKYByB/cardimg.jpg" alt="Project Image">
+      <img src="img/about2.webp" alt="Project Image">
     </div>
   </div>
 </section>
@@ -84,10 +82,9 @@
           <div class="icon-wrapper">
             <i class="fa-solid fa-chart-line"></i>
           </div>
-          <h3>Tracking Lead</h3>
+          <h3>Quality Assurance</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          We guarantee top-notch quality across our products and services, ensuring satisfaction with every purchase.
           </p>
         </div>
       </div>
@@ -96,10 +93,9 @@
           <div class="icon-wrapper">
             <i class="fa-solid fa-arrows-down-to-people"></i>
           </div>
-          <h3>Advanced Targeting Solution</h3>
+          <h3>Customer-Centered Approach</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          Our commitment to understanding and meeting customer needs ensures personalized experiences and solutions tailored to you.
           </p>
         </div>
       </div>
@@ -108,10 +104,9 @@
           <div class="icon-wrapper">
             <i class="fa-solid fa-globe"></i>
           </div>
-          <h3>Global Reach & Quality Traffic</h3>
+          <h3>Innovation and Excellence</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          We continually innovate to stay ahead, delivering products that blend creativity with functionality, setting new standards in the industry.
           </p>
         </div>
       </div>
@@ -120,10 +115,9 @@
           <div class="icon-wrapper">
             <i class="fa-solid fa-money-check-dollar"></i>
           </div>
-          <h3>Flexible Pricing Models</h3>
+          <h3>Reliability and Trust</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          Count on us for reliability and transparency in every interaction, backed by a strong reputation built on trust and integrity.
           </p>
         </div>
       </div>
@@ -132,10 +126,9 @@
           <div class="icon-wrapper">
             <i class="fa-regular fa-circle-check"></i>
           </div>
-          <h3>Advanced Optimization Technologies & Methodologies</h3>
+          <h3>Exceptional Support</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          Experience dedicated customer support that goes above and beyond to ensure your satisfaction and resolve any issues promptly.
           </p>
         </div>
       </div>
@@ -144,10 +137,9 @@
           <div class="icon-wrapper">
             <i class="fa-solid fa-people-group"></i>
           </div>
-          <h3>Dedicated Account Management Team</h3>
+          <h3>Community and Impact</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Quisquam consequatur necessitatibus eaque.
+          By choosing us, you support a company dedicated to making a positive impact. We are committed to sustainable practices, ethical sourcing, and contributing to the community, ensuring your purchase aligns with your values.
           </p>
         </div>
       </div>
@@ -164,28 +156,28 @@
                     <div class="slider__inner">
                         <div class="slider__contents">
                         <quote>&rdquo;</quote>
-                        <p class="slider__txt">We love you guys. It's easy to order, we get shipments quick and my rep solves tough problems the right way. We get answers that work.</p>
-                        <h2 class="slider__caption">Rhonda | NylonCraft</h2>
+                        <p class="slider__txt">"Stylehive has been my go-to for fashion essentials. Their attention to detail and quality craftsmanship always impress me."</p>
+                        <h2 class="slider__caption">John D</h2>
                         </div>
                         <div class="slider__contents">
                         <quote>&rdquo;</quote>
-                        <p class="slider__txt">You all bend over backwards to get it done. Inside sales and the Account Managers are great! It's your service...you all know that it's not just about taking orders it's about service. Why do we choose you guys - your people, your prices, you're quick and you have a ton of technical knowledge.</p>
-                        <h2 class="slider__caption">Jared | Rexam</h2>
+                        <p class="slider__txt">"I love shopping at Stylehive! Their collections are trendy yet timeless, and their customer service is exceptional."</p>
+                        <h2 class="slider__caption">Sarah M</h2>
                         </div>
                         <div class="slider__contents">
                         <quote>&rdquo;</quote>
-                        <p class="slider__txt">It's the long-term relationship we have with Proheat that keeps me calling you guys. I trust you, you're quick, and everybody I've ever spoken to there are all great people. Our CEO, Bill, talks about building relationships. That's exactly what Proheat does, and I couldn't be happier.</p>
-                        <h2 class="slider__caption">Chris | C&M Fine Pack</h2>
+                        <p class="slider__txt">"I had a fantastic experience with Stylehive. They resolved my issue promptly and professionally, showing their dedication to customer satisfaction."</p>
+                        <h2 class="slider__caption">David S</h2>
                         </div>
                         <div class="slider__contents">
                         <quote>&rdquo;</quote>
-                        <p class="slider__txt">You answer my questions, always takes care of problems, and I never have a hassle.</p>
-                        <h2 class="slider__caption">Rex | LNP Engineering Plastics</h2>
+                        <p class="slider__txt">"Stylehive's innovative approach to fashion sets them apart. Their pieces are not only stylish but also comfortable and versatile."</p>
+                        <h2 class="slider__caption">Emily P</h2>
                         </div>
                         <div class="slider__contents">
                         <quote>&rdquo;</quote>
-                        <p class="slider__txt">Proheat's staff are all so friendly and everybody goes above and beyond. Everyone is courteous, everything is quick and you get us what we need. I have to shop around for everything and we ALWAYS come back to Proheat.</p>
-                        <h2 class="slider__caption">Darlene | Russel Stover</h2>
+                        <p class="slider__txt">"Choosing Stylehive is not just about great fashion—it's about supporting a company that values sustainability and ethical practices."</p>
+                        <h2 class="slider__caption">Micheal R</h2>
                         </div>
                     </div>
         </div>
