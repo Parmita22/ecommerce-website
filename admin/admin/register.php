@@ -19,7 +19,6 @@
         $image_tmp_name = $_FILES['image']['tmp_name'];
         $image_folder = '../image/'.$image;
 
-
         $select_admin = $conn->prepare("SELECT * FROM admin WHERE email = ?");
         $select_admin->execute([$email]);
 
